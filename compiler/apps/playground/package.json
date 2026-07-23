@@ -15,7 +15,7 @@
     "test": "playwright test --workers=4"
   },
   "dependencies": {
-    "@babel/core": "^7.18.9",
+    "@babel/core": "^7.29.6",
     "@babel/generator": "^7.18.9",
     "@babel/parser": "^7.18.9",
     "@babel/plugin-syntax-typescript": "^7.18.9",
